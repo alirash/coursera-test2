@@ -1,2 +1,2 @@
-# coursera-test2
+# module3-solution
 Coursera test Repository
